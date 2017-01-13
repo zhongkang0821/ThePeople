@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThePeople</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="flash">穿越茫茫人海\n寻找属于我们的那一份宁静</string>
+
+    <string name="navigation_header_text1">ThePeoloe</string>
+    <string name="navigation_header_text2">http://blog.csdn.net/huamnge</string>
+</resources>
